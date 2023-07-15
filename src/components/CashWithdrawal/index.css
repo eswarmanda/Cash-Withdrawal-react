@@ -1,0 +1,82 @@
+.main-cont {
+  background-color: aliceblue;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: #150b3e;
+  height: fit-content;
+  width: 350px;
+  border-radius: 15px;
+  padding: 10px;
+}
+.profile {
+  color: white;
+  display: flex;
+  width: fit-content;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.icon {
+  display: flex;
+  background-color: #c7d2fe;
+  height: 40px;
+  width: 40px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+  padding: 5px;
+  color: #7c3aed;
+}
+.p {
+  font-size: large;
+}
+.profile-name {
+  font-size: small;
+  font-weight: 100;
+  margin: 10px;
+}
+.bal-cont {
+  display: flex;
+  color: antiquewhite;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  margin-top: -20px;
+}
+.bal {
+  font-size: small;
+}
+.amt-cont {
+}
+.amt-bal {
+  font-size: x-large;
+}
+.rupees {
+  font-size: x-small;
+}
+
+.summary {
+  color: antiquewhite;
+  padding: 20px;
+  margin-top: -40px;
+}
+.with-draw {
+  font-size: small;
+  font-weight: 500;
+}
+.description {
+  font-size: x-small;
+}
+.ul-cont {
+  display: flex;
+  width: 350px;
+  margin-left: -30px;
+  margin-top: -20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

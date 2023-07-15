@@ -1,0 +1,15 @@
+.list-cont {
+  list-style-type: none;
+}
+.btn {
+  background-color: #382f5a;
+  height: 30px;
+  width: 130px;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #d4d2db;
+  color: #d4d2db;
+  border-width: 0.01px;
+  font-weight: 700;
+  margin: 10px;
+}
